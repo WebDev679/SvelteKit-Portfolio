@@ -15,7 +15,7 @@ const projects = [
         title: "HubAssist",
         technologies: ["Python", "Django", "React", "PostgreSQL", "Docker"],
         description: "Initiated and developed a web application to assist BU students with course planning. Designed a greedy algorithm to efficiently identify the best combination of courses based on student requirements. Developed and deployed the application using React, Django, PostgreSQL, and Docker, which is used by over 1,500 students.",
-        url: "hubassist.net"
+        url: "https://hubassist.net/"
     },
     {
         title: "RecyclableAI",
