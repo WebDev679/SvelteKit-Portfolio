@@ -11,7 +11,7 @@
 		<h1>About</h1>
 		<p>
 			Hello, World! 👋 
-I'm a dedicated and motivated sophomore at Boston University, majoring in Computer Science. Passionate about technology's potential to shape the future, I'm driven to explore diverse domains within the field.
+I'm a dedicated and motivated junior at Boston University, majoring in Computer Science. Passionate about technology's potential to shape the future, I'm driven to explore diverse domains within the field.
 <br>
 <br>
 🚀 What I'm Up To
