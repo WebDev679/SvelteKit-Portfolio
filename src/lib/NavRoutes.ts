@@ -12,9 +12,9 @@ const routes = [
 		label: 'About'
 	},
 	{
-		href: '/blog',
-		label: 'Blog'
-	}
+		href: 'https://drive.google.com/file/d/1BlKc94smkSGPHIfcSsMUjvWIWOiPAAC6/view?usp=sharing',
+		label: 'Resume'
+	},
 ];
 
 export default routes;

@@ -3,17 +3,28 @@
 </script>
 
 <svelte:head>
-	<title>Gianmarco Cavallo — About</title>
+	<title>Arnav Pratap Chaudhry — About</title>
 </svelte:head>
 
 <div class="container">
 	<main>
 		<h1>About</h1>
 		<p>
-			I'm a Software developer with over 2 years of front-end development experience, experienced in
-			both enterprise and open-source software development. I'm based in Italy and currently working
-			as a freelancer and coding in Node.js, React.js (and other web technologies) and Go(lang), but
-			I tend to learn and use the best technology and approach to best solve the problem I'm facing.
+			Hello, World! 👋 
+I'm a dedicated and motivated sophomore at Boston University, majoring in Computer Science. Passionate about technology's potential to shape the future, I'm driven to explore diverse domains within the field.
+<br>
+<br>
+🚀 What I'm Up To
+<br>
+- Exploring Machine Learning to derive meaningful insights 🤖
+<br>
+- Crafting seamless and user-centric digital experiences in Web Development 🌐
+<br>
+- Embracing efficiency and collaboration in the world of DevOps 🛠️
+<br>
+- Channeling curiosity into intuitive and functional Mobile App Development 📱
+<br>
+- Excited about the potential of Blockchain to revolutionize transparency and security 🔗
 		</p>
 		<h2>Skills</h2>
 		{#each Object.entries(skills) as [section, technologies]}
