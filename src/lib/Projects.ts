@@ -19,7 +19,7 @@ const projects = [
     },
     {
         title: "RecyclableAI",
-        technologies: ["Dart", "Flutter", "Python", "Flask", "Computer Vision"],
+        technologies: ["Dart", "Flutter", "Python", "Flask", "Computer Vision", "Heroku"],
         description: "Developed a hybrid application for Android and iOS that scans objects and retrieves recycling instructions. Utilized computer vision for object recognition, Python and Flask for backend processing and web scraping, and Dart and Flutter for the app's user interface.",
         url: "https://github.com/Jason0429/hackmit-2022-frontend"
     },
