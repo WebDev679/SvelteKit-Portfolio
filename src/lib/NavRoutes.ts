@@ -12,7 +12,7 @@ const routes = [
 		label: 'About'
 	},
 	{
-		href: 'https://drive.google.com/file/d/1BlKc94smkSGPHIfcSsMUjvWIWOiPAAC6/view?usp=sharing',
+		href: 'https://drive.google.com/file/d/1Y2vmYnptvN5NC0zYj-7qHsqoPpi4YKqr/view?usp=sharing',
 		label: 'Resume'
 	},
 ];
