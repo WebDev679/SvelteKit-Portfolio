@@ -1,5 +1,12 @@
 const projects = [
     {
+        title: "Low Latency Limit Order Book Simulator",
+        technologies: ["C++", "GoogleTest", "Python"],
+        description: "Built a high-performance limit order book and matching engine in C++, processing 480K+ transactions/second. Designed an AVL tree–based architecture leveraging FIFO and Price Priority algorithms for execution sequencing, enabling sub-microsecond latency on add, cancel, and execute requests. Simulated 5M+ orders with a statistical generator and benchmarked performance, with 2076ns latency per order",
+        url: "https://github.com/WebDev679/latency-lob-simulator"
+    },
+
+    {
         title: "Instagram Wrapped",
         technologies: ["Next.js", "React", "TypeScript"],
         description: "Developed an application providing detailed insights into users’ Instagram activity, similar to Spotify Wrapped. Engineered the full-stack solution using Next.js and TypeScript, implementing comprehensive data analysis features and designing a user-friendly interface with intuitive animations.",
@@ -15,7 +22,7 @@ const projects = [
         title: "HubAssist",
         technologies: ["Python", "Django", "React", "PostgreSQL", "Docker"],
         description: "Initiated and developed a web application to assist BU students with course planning. Designed a greedy algorithm to efficiently identify the best combination of courses based on student requirements. Developed and deployed the application using React, Django, PostgreSQL, and Docker, which is used by over 1,500 students.",
-        url: "https://hubassist.net/"
+        url: "https://hubassist-7u04.onrender.com"
     },
     {
         title: "RecyclableAI",
